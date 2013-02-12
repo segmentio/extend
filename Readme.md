@@ -5,7 +5,7 @@
 
 ## Installation
 
-    $ component install ianstormtaylor/extend
+    $ component install segmentio/extend
 
 ## API
 
