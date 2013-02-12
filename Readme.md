@@ -9,7 +9,9 @@
 
 ## API
 
-   
+### extend(object, object...)
+
+  Extend an object with another object's properties. Just like underscore.
 
 ## License
 
