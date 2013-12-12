@@ -1,6 +1,6 @@
 {
   "name": "s-extend",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "dependencies": {},
   "devDependencies": {
     "mocha": "*",
