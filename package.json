@@ -1,5 +1,5 @@
 {
-  "name": "s-extend",
+  "name": "@segment/extend",
   "version": "1.0.0",
   "dependencies": {},
   "devDependencies": {
