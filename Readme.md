@@ -9,7 +9,7 @@
 
 ## API
 
-### extend(object, object...)
+### extend(target, ...sources)
 
   Extend an object with another object's properties. Just like underscore.
 
