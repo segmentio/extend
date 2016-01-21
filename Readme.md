@@ -11,7 +11,7 @@
 
 ### extend(target, ...sources)
 
-  Extend an object with another object's properties. Just like underscore.
+  Extend a target object with source object(s)' properties. Just like underscore.
 
 ## License
 
