@@ -19,6 +19,11 @@ test('should add new properties', function () {
     object.should.eql({ a : 3, b : 2 });
 });
 
+test('should skip falsy arguments', function () {
+    extend(object, null, false, '', 0, { b : 3 });
+    object.should.eql({ a : 3, b : 3 });
+});
+
 test('should return the object', function () {
     extend(object).should.equal(object);
 });
